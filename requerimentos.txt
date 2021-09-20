@@ -1,0 +1,21 @@
+Multi calculadora
+
+O objetivo dessa aplicação é aplicar as 4 operações básicas ao mesmo tempo, nos números submetidos pelo usuário.
+
+Ao preencher todos os valores e clicar em calcular, o resultado deve aparecer na coluna resultados à direita.
+
+Ao clicar limpar todos os valores devem ser resetados 
+
+Se o usuário clicar em calcular sem preencher todos os inputs, deve aparecer um alerta na tela: “Por favor preencha todos os números antes de submeter o calculo”
+
+Stack:
+
+HTML, CSS e JavaScript.
+
+Dicas:
+
+Cuidar com os casos de números negativos e NaN.
+Usar Tailwind CSS pra deixar mais bonito.
+
+Extra:
+Fazer o deploy da pagina no Firebase.
